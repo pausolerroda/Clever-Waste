@@ -1,6 +1,6 @@
 /* Clever Waste — interactive demo reconstructed from the supplied Figma export.
    All account, booking, stock and AI figures are demonstration data stored locally in this browser. */
-const A = './assets/figma/';
+const A = './';
 const IMG = {
   focaccia: '1882b80a3197e26998f8df76c0fc3705a51f8462',
   vegetables: '1dee40e59b7fa9f4d2c9e522602baca4a309db2f',
